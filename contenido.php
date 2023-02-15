@@ -27,14 +27,6 @@
                 <p></p>
             </article>
         </section>
-        <section>
-            <div></div>
-            <article>
-                <h2></h2>
-                <p></p>
-            </article>
-        </section>
-    </main>
     <footer>
         <section>
             <h2></h2>
