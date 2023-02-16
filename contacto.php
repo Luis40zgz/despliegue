@@ -6,12 +6,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
     <title>Despliegue</title>
 </head>
 <body>
     <header>
-        <div class="fondo"></div>
-        <nav>
+    <div class="fondo">
+            <div class="logo">
+                <p class="title-logo"><span class="relleno">*:</span>Retr <span>o</span> Game</p>
+                <div class="img-logo"><img src="./img/mario.png" alt="Super Mario"></div>
+            </div>
+        </div>
+        <nav class="main-menu">
             <ul>
                 <li><a href="./index.php">Home</a></li>
                 <li><a href="./contenido.php">Contenido</a></li>
